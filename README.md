@@ -27,3 +27,5 @@ And if you have to do something, it must be done well.
 # Download
 
 Well, even if you should never trust `.exe` files that you find on the internet (especially on GitHub), you can download the compiled script here : [build/VoiceMeeterPotatoActivator_x64.exe](https://github.com/sucresware/voicemeeter-activator-autoit/blob/master/build/VoiceMeeterPotatoActivator_x64.exe)
+
+
